@@ -1,4 +1,4 @@
-# GSuite-LabelCleanupPrep
+# GSuite-GAMLabelCleanup
 
 First use GAM to export labels to CSV: ```./gam user <username> show labels onlyuser > userLabels.csv```
 
